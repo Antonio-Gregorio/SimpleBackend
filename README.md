@@ -1,10 +1,8 @@
 <img src="./README/1.jpg" alt="SimpleBackend" style="width:100%">
-##
 
 O Simple Backend é um template versátil projetado especialmente para projetos de backend de pequena escala. Com sua estrutura simples e abordagem minimalista, ele oferece uma base sólida para o desenvolvimento de aplicativos web leves e APIs.
 
 <img src="./README/5.jpg" alt="SimpleBackend" style="width:100%">
-##
 
 1. **Clone o repositório do SimpleBackend:** Abra o terminal e execute o seguinte comando para clonar o repositório do SimpleBackend em seu ambiente local:
    ```bash
@@ -21,7 +19,6 @@ O Simple Backend é um template versátil projetado especialmente para projetos 
     ```bash
    npm run start
 <img src="./README/4.jpg" alt="SimpleBackend" style="width:100%">
-##
 
 O SimpleBackend segue uma arquitetura de software conhecida como MVC (Model-View-Controller), que é amplamente utilizada para estruturar aplicações web. Essa arquitetura divide as responsabilidades em três componentes principais: Model, View e Controller.
 
@@ -30,7 +27,6 @@ No SimpleBackend, o Model é representado pelos models do Mongoose. O Mongoose �
 O Controller, por sua vez, é representado pelas funções de tratamento de dados do Express. O Express é um framework web minimalista que fornece uma maneira simples e eficiente de lidar com rotas e solicitações HTTP. No SimpleBackend, o Controller é responsável por receber as requisições dos clientes, chamar os métodos apropriados nos models do Mongoose para manipular os dados e retornar as respostas adequadas. Essas funções de controle encapsulam a lógica de negócios do aplicativo e ajudam a manter um código mais organizado e reutilizável.
 
 <img src="./README/2.jpg" alt="SimpleBackend" style="width:100%">
-##
 
 O projeto SimpleBackend utiliza uma combinação de tecnologias modernas e poderosas para fornecer uma solução eficiente no desenvolvimento de aplicações de backend. As principais tecnologias utilizadas neste projeto são:
 
@@ -43,6 +39,5 @@ O projeto SimpleBackend utiliza uma combinação de tecnologias modernas e poder
 **Express** É um framework web rápido e minimalista para Node.js. Ele simplifica o processo de criação de APIs e aplicativos web, fornecendo uma estrutura robusta para lidar com roteamento, middlewares e solicitações HTTP. O SimpleBackend utiliza o Express como o principal framework para lidar com a lógica de roteamento e controle de solicitações, permitindo a criação de rotas e o processamento de requisições de forma simples e eficiente.
 
 <img src="./README/3.jpg" alt="SimpleBackend" style="width:100%">
-##
 
 Criado por Antonio Gregorio
